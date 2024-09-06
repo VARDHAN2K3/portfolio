@@ -257,6 +257,9 @@ h3{
     height: 40px;
     border-radius: 10px;
 }
+.contact-link-img:hover{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2999);
+}
 @media(max-width: 1000px){
     .header-nav{
         display: none;
