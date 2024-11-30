@@ -23,6 +23,12 @@ const projects = [
         link: 'https://vardhan2k3.github.io/Calculator/',
         list: ['Html','CSS','Java Script'] // calculator
     },
+    {
+        proName: 'Tic Tac Toe',
+        img: 'calculator.png',
+        link: 'https://vardhan2k3.github.io/Tic Tac Toe/',
+        list: ['Html','CSS','Java Script'] // calculator
+    }
 ];
 
 let projectRender = '';
