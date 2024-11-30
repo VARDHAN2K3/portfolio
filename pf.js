@@ -25,7 +25,7 @@ const projects = [
     },
     {
         proName: 'Tic Tac Toe',
-        img: 'calculator.png',
+        img: 'tictactoe.png',
         link: 'https://vardhan2k3.github.io/TicTacToe/',
         list: ['Html','CSS','Java Script'] // calculator
     }
