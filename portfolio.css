@@ -101,7 +101,7 @@ body{
     width: 260px;
     border-radius: 130px;
     object-fit: cover;
-    filter: drop-shadow(1px 1px 10px rgb(132, 130, 130));
+    /*filter: drop-shadow(1px 1px 10px rgb(132, 130, 130));*/
     transition: all 0.3s;
     cursor: pointer;
 }
